@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanificateurArret", "PlanificateurArret.csproj", "{59D4CCA9-F2F6-4C5A-AD1C-F327CB198F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D4CCA9-F2F6-4C5A-AD1C-F327CB198F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D4CCA9-F2F6-4C5A-AD1C-F327CB198F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D4CCA9-F2F6-4C5A-AD1C-F327CB198F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D4CCA9-F2F6-4C5A-AD1C-F327CB198F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {967284FD-9CDB-4E9C-AAFB-593AC62229D3}
+	EndGlobalSection
+EndGlobal
